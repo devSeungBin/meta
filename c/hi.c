@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// functino 
+// function definition
 void hi() {
     printf("Linux World \n");
 }
