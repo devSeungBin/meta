@@ -1,3 +1,5 @@
+-- create database st_db;
+
 use st_db;
 
 create table st_info(ST_ID int, NAME varchar(20), DEPT varchar(25)) default charset=utf8;
